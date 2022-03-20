@@ -5,11 +5,11 @@ Results will reveal:
 
 - Total Players 
 - Purchase Analysis (Total)
--Gender Demographics
--Purchase Analysis (Gender)
--Age Demographics
--Purchasing Analysis (Age)
--Top Spenders
--Most Popular Items
--Most profitable Items
+- Gender Demographics
+- Purchase Analysis (Gender)
+- Age Demographics
+- Purchasing Analysis (Age)
+- Top Spenders
+- Most Popular Items
+- Most profitable Items
 
